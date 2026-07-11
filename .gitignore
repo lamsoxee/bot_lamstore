@@ -1,0 +1,7 @@
+# File & folder yang nggak usah di-upload ke GitHub
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+qris.jpg
