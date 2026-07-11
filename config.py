@@ -22,7 +22,7 @@ PAYMENT_NOTE = (
 )
 
 # --- Kontak admin (buat tombol "Hubungi Admin") ---
-ADMIN_USERNAME = "lammmours"  # tanpa @, username Telegram kamu
+ADMIN_USERNAME = "lammours"  # tanpa @, username Telegram kamu
 
 # --- Daftar produk/jasa ---
 # Tinggal tambah/hapus/edit dict di list ini.
